@@ -15,7 +15,7 @@ Welcome to *{{ frontmatter.project }}*, a website of taxon pages generated from 
 
 ## Announcements
 * 5/1/2022 - We've grown!  
-* 1/1/2022 - Our website is live!
+* 10/19/2022 - Our website is live!
 
 ## Find out more
 Learn how to collaborate with the {{ frontmatter.title }} project. Contact information, technical details, and more are available at [About](/about).
