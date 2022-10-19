@@ -1,5 +1,5 @@
 ---
-title: The title
+title: UNH Insect Collection
 lead: Taxa from your imagination to the web
 project: UNH Insect Collection
 ---
