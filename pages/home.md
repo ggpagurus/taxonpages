@@ -8,7 +8,7 @@ project: UNH Insects
 _{{frontmatter.lead}}_
 
 ## Overview
-Welcome to *{{ frontmatter.project }}*, a website of taxon pages generated from the {{ frontmatter.project }} Project, a comprehensive collaborative effort managed in [TaxonWorks](https://taxonworks.org). 
+Welcome to *{{ frontmatter.project }}*, a website of taxon pages generated from the {{ frontmatter.title }} Collection, a comprehensive collaborative effort managed in [TaxonWorks](https://taxonworks.org). 
 
 ## Get started!
 <autocomplete-otu class="w-80"/>
