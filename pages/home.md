@@ -1,5 +1,5 @@
 ---
-title: University of New Hampshire Taxonworks project
+title: University of New Hampshire
 lead: Taxa from your imagination to the web
 project: UNH Insects
 ---
