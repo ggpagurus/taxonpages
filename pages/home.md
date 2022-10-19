@@ -1,7 +1,7 @@
 ---
-title: UNH Insect Collection
+title: University of New Hampshire Taxonworks project
 lead: Taxa from your imagination to the web
-project: UNH Insect Collection
+project: UNH Insects
 ---
    
 # {{frontmatter.title}}
